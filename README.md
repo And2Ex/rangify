@@ -1,7 +1,7 @@
 # House Number Rangifier
 
 ## Description
-This Python script converts sequences of house numbers into ranges, removes duplicates, and sorts values. It's adaptable to different formats, including the Ukrainian convention of using 'Буд' (short for 'Будинок', meaning 'Building' in Ukrainian) at the beginning of strings. Users can replace 'Буд' with their own term if needed or leave it unused.
+This Python script processes sequences of numbers (specifically, a list of houses) by converting them into ranges, removing duplicates, and sorts values. It's adaptable to different formats, including the Ukrainian convention of using 'Буд' (short for 'Будинок', meaning 'Building' in Ukrainian) at the beginning of strings. Users can replace 'Буд' with their own term if needed or leave it unused.
 
 ## Usage
 1. Run the script.
